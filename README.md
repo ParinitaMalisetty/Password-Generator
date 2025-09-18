@@ -38,11 +38,42 @@ python app.py
 http://127.0.0.1:5000
 ```
 
+---
+
 ## Folder Structure 📂
 <img width="226" height="224" alt="Screenshot 2025-09-17 231559" src="https://github.com/user-attachments/assets/bdfbfc46-c681-45b5-997c-8bc32a09f34d" />
+
+---
+
+## Usage
+
+1. Enter desired password length.
+
+2. Choose options: uppercase, digits, special characters.
+
+3. Enter the number of passwords to generate.
+
+4. Click Generate Passwords.
+
+5. Copy any password by clicking the Copy button.
+
+---
 
 ## Output:
 
 <img width="1919" height="876" alt="image" src="https://github.com/user-attachments/assets/ceba6691-0b77-4bb4-a18c-2eb1f31da4cf" />
 
 
+---
+
+Author 👩‍💻
+
+Parinita Malisetty
+https://github.com/ParinitaMalisetty
+
+---
+
+
+License
+
+This project is open-source and available under the MIT License.
